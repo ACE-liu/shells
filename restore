@@ -1,0 +1,39 @@
+#!/bin/bash
+SUDO=sudo
+# clear local register data
+$SUDO rm -rf /var/data/ego_java_server_data/temp
+
+# clear record_image
+$SUDO rm -rf /var/data/ego_java_server_data/record_image
+
+# clear /var/data 
+data=`find /var/data -type f`
+for f in $data
+do 
+    $SUDO rm -f $f
+done
+
+# clear user settings
+data=`find /opt/ego/runtime -name "*.bak" -o -name "*.usr"`
+for f in $data
+do 
+    $SUDO rm -f $f
+done
+
+# clear ego_java_server log
+data=`find /var/log/ego_java_server_log -type f`
+for f in $data
+do 
+    $SUDO rm -f $f
+done
+
+# clear old system log
+data=`find /var/log -type f -name "*.gz"`
+for f in $data
+do 
+    $SUDO rm -f $f
+done
+
+# clear network connection history
+uuid=`nmcli -f uuid connection show  | sed -n '2,$p'`
+[ ! -z "$uuid" ]  && sudo nmcli connection delete uuid $uuid

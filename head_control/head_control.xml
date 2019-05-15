@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<motor_angle_center>0</motor_angle_center>
+<motor_angle_start>60</motor_angle_start>
+<motor_angle_end>-60</motor_angle_end>
+<motor_turn_priority>right</motor_turn_priority>
+<motor_speed>60</motor_speed>
+<AAC>5</AAC>
+<delay_time>150</delay_time>
+<moving_status>80</moving_status>
+<motor_stop_with_face>0</motor_stop_with_face>
+</opencv_storage>

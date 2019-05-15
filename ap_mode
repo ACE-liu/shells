@@ -1,0 +1,29 @@
+#! /bin/bash
+#
+# ap_mode
+# Copyright (C) 2018 Albert Lv <altair.albert@yahoo.com>
+#
+# Distributed under terms of the MIT license.
+#
+
+# tail 6 bit of mac address, the last bit is \n
+mac=`cat /sys/class/net/eth0/address | sed s/://g | tail -c 7`
+
+enable_ap_mode(){
+    # stop monitor_net service
+    sudo systemctl stop monitor_net.service
+    sudo nmcli device wifi hotspot con-name iim-ap ifname wlan0 password 12345678 ssid Ego-$mac
+}
+
+disable_ap_mode(){
+    # start monitor_net service
+    sudo systemctl start monitor_net.service
+    name=`nmcli connection show id iim-ap`
+    [ ! -z "$name" ] && sudo nmcli connection delete id iim-ap
+}
+
+if [ x"$1" = "xenable" ];then
+    enable_ap_mode
+else
+    disable_ap_mode
+fi

@@ -1,0 +1,280 @@
+
+**------------------------------------------------**
+Information of the test set:
+Number of person in the datasets: 11
+seq	Name				Images		ID_S				authorized		time-stamp		weight
+0	美女				1		80634460efd245198bb1dfa95bc873d1				1		1610335140		0.745		
+1	吕布				1		b0cbe098c563427aaed562bfd13b2b51				1		1610377680		0.745		
+2	谢总				1		7b810b356fdc4f6eb984a042adf4f92c				1		1554995160		0.745		
+3	刘柳柳				1		7baa470cdb814e13bb31c88470a4b2d5				1		1562857800		0.745		
+4	钱会敏				1		cddff9d5a9a34202af9d134547e1a69e				1		1578755220		0.745		
+5	陈浩群				1		7e4fdd19d3f445139424329123777d6e				1		4070923200		0.745		
+6	黎				1		2abb05a547654c21b1da2ed8ddffce83				1		1578712320		0.745		
+7	阮杰				1		60f63ff538e9445fa290a4219a76dbd3				1		1578755340		0.745		
+8	阳阳				1		8396450d6e4d40c7821830f4ecac379e				1		1578755760		0.745		
+9	章泉				1		8b3e9121934e42af8a47be6e3b1d7126				1		4070923200		0.745		
+10	邓丽珍				1		7b2e9988f1504cff9a0e1f4680d12a4f				1		1562857620		0.745		
+Total Features		11
+**------------------------------------------------**
+**------------------------------------------------**
+2019-Jan-15 16:54:47.188273 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.74791
+
+2019-Jan-15 16:54:47.529855 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.746877
+
+2019-Jan-15 16:54:48.172732 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.747308
+
+2019-Jan-15 16:54:49.066056 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.755924
+
+2019-Jan-15 16:54:50.030259 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.746333
+
+2019-Jan-15 16:54:54.563729 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.750099
+
+2019-Jan-15 16:54:55.617307 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.772241
+
+2019-Jan-15 16:54:55.953940 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.757385
+
+2019-Jan-15 16:54:56.864433 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.766881
+
+2019-Jan-15 16:54:57.163840 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.783007
+
+2019-Jan-15 16:54:57.483603 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.779647
+
+2019-Jan-15 16:54:57.807952 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.762527
+
+2019-Jan-15 16:55:01.049904 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.772727
+
+2019-Jan-15 16:55:03.936558 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.767523
+
+2019-Jan-15 16:55:04.341997 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.753759
+
+2019-Jan-15 16:55:04.673397 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.75973
+
+2019-Jan-15 16:55:05.572249 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.737637
+
+2019-Jan-15 16:55:05.905335 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.748949
+
+2019-Jan-15 16:55:06.227215 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.740935
+
+2019-Jan-15 16:55:07.204175 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.771557
+
+2019-Jan-15 16:55:07.571016 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.782897
+
+2019-Jan-15 16:55:07.892231 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.776303
+
+2019-Jan-15 16:55:08.216144 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.789792
+
+2019-Jan-15 16:55:08.534479 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.758237
+
+2019-Jan-15 16:55:08.858531 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.752277
+
+2019-Jan-15 16:55:09.177856 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.751432
+
+2019-Jan-15 16:55:09.505823 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.74149
+
+2019-Jan-15 16:55:11.129690 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.746789
+
+2019-Jan-15 16:55:11.728134 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.78495
+
+2019-Jan-15 16:55:12.373206 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.796438
+
+2019-Jan-15 16:55:12.680866 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.808224
+
+2019-Jan-15 16:55:13.016308 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.806162
+
+2019-Jan-15 16:55:13.342708 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.805165
+
+2019-Jan-15 16:55:13.690789 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.802767
+
+2019-Jan-15 16:55:15.021793 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.795613
+
+2019-Jan-15 16:55:15.306269 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.814557
+
+2019-Jan-15 16:55:15.583289 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.81284
+
+2019-Jan-15 16:55:15.907228 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.812328
+
+2019-Jan-15 16:55:16.234568 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.816295
+
+2019-Jan-15 16:55:16.539044 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.818612
+
+2019-Jan-15 16:55:16.864219 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.822777
+
+2019-Jan-15 16:55:17.183731 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.814285
+
+2019-Jan-15 16:55:17.511358 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.810699
+
+2019-Jan-15 16:55:17.833210 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.812731
+
+2019-Jan-15 16:55:18.151628 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.802702
+
+2019-Jan-15 16:55:18.473842 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.812506
+
+2019-Jan-15 16:55:18.793074 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.814128
+
+2019-Jan-15 16:55:19.103073 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.818466
+
+2019-Jan-15 16:55:19.419535 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.816493
+
+2019-Jan-15 16:55:19.778120 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.815806
+
+2019-Jan-15 16:55:20.110930 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.818864
+
+2019-Jan-15 16:55:20.416516 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.817961
+
+2019-Jan-15 16:55:22.391534 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.804494
+
+2019-Jan-15 16:55:22.728423 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.813443
+
+2019-Jan-15 16:55:23.055433 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.814305
+
+2019-Jan-15 16:55:23.377087 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.809456
+
+2019-Jan-15 16:55:23.705909 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.810277
+
+2019-Jan-15 16:55:24.030420 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.793179
+
+2019-Jan-15 16:55:24.355975 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.752369
+
+2019-Jan-15 16:55:24.674005 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.755377
+
+2019-Jan-15 16:55:24.993882 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.761835
+
+2019-Jan-15 16:55:25.321873 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.755391
+
+2019-Jan-15 16:55:25.644601 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.723462
+
+2019-Jan-15 16:55:25.990540 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.771929
+
+2019-Jan-15 16:55:26.369841 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.788988
+
+2019-Jan-15 16:55:26.692313 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.759155
+
+2019-Jan-15 16:55:27.028114 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.737018
+
+2019-Jan-15 16:55:28.811050 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.76791
+
+2019-Jan-15 16:55:29.134717 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.773506
+
+2019-Jan-15 16:55:29.460881 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.808889
+
+2019-Jan-15 16:55:29.794170 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.793184
+
+2019-Jan-15 16:55:30.111932 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.731518
+
+2019-Jan-15 16:55:31.351038 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.772069
+
+2019-Jan-15 16:55:31.676523 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.767724
+
+2019-Jan-15 16:55:32.012817 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.741135
+
+2019-Jan-15 16:55:32.334252 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.722079
+
+2019-Jan-15 16:55:35.287793 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.733496
+
+2019-Jan-15 16:55:35.611069 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.745919
+
+2019-Jan-15 16:55:37.800233 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.769666
+
+2019-Jan-15 16:55:38.124340 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.766274
+
+2019-Jan-15 16:55:38.453048 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.771201
+
+2019-Jan-15 16:55:38.795881 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.762181
+
+2019-Jan-15 16:55:39.121749 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.762925
+
+2019-Jan-15 16:55:39.447714 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.748967
+
+2019-Jan-15 16:55:39.783241 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.721215
+
+2019-Jan-15 16:55:40.137577 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.717023
+
+2019-Jan-15 16:55:40.471900 recognizer_caffe.cpp:254 [INFO] ====== recognized scores ======
+RECOGNIZED ==> person-name: 章泉 threshold: 0.745 score: 0.725252
+

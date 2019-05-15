@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhead_control.a  CMakeFiles/head_control.dir/head_control.cpp.o CMakeFiles/head_control.dir/dynamixel_head_control.cpp.o CMakeFiles/head_control.dir/smsbl_motor.cpp.o CMakeFiles/head_control.dir/smsbl_head_control.cpp.o CMakeFiles/head_control.dir/head_control_factory.cpp.o CMakeFiles/head_control.dir/head_control_settings.cpp.o
+/usr/bin/ranlib libhead_control.a

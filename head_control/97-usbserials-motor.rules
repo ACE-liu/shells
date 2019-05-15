@@ -1,0 +1,2 @@
+# Udev rule for motor (head control)
+KERNEL=="ttyUSB[0-9]*", SUBSYSTEM=="tty", DRIVERS=="ftdi_sio", SYMLINK+="motor0"

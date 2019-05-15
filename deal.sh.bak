@@ -1,0 +1,32 @@
+#! /bin/bash
+
+file=
+var=0
+#buffile="buf.log"
+
+deal()
+{
+    if [ -z $file ]
+    then
+        echo "file name is empty."
+    else
+        total=`grep -c "score_non_online" $file`
+        echo "总处理数： ${total}"
+        #grep -n "score_non_online" $file | awk '{if ($8 >= "0.75"){var++; print var;}; print var}'
+        grep -n "score_non_online" $file | awk '{if ($8 >= "0.75"){var++; print var>"buf.log";};}'
+        var=`grep -c ".*" buf.log`
+        echo "大于阈值的总数：${var}"
+        rm buf.log
+    fi
+
+}
+
+
+if [ $# -lt 1 ]
+then
+    echo "请输入要处理的文件名！"
+else
+    file=$1
+    #echo $file
+    deal
+fi

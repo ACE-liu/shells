@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<!--core delay tolerance -->
+<delay_tol>2</delay_tol>
+
+<!-- auxiliary detection module-->
+<enable_spoof>1</enable_spoof>
+<nonfacial_type>falldown</nonfacial_type>
+<auxiliary_detector_type>spoof_none</auxiliary_detector_type>
+<door_control>wire</door_control>
+<landmark_type>dan</landmark_type>
+<detector_type>ssd</detector_type>
+<interest_points>eyes_nose_lips</interest_points>
+
+<!-- paths -->
+<logger_path>/var/data/log</logger_path>
+<runtime_path>/opt/ego/runtime</runtime_path>
+<workspace_path>/var/data/ego_java_server_data</workspace_path>
+</opencv_storage>
+

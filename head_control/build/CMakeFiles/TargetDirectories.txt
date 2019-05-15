@@ -1,0 +1,4 @@
+/home/liuliu/shells/head_control/build/CMakeFiles/edit_cache.dir
+/home/liuliu/shells/head_control/build/CMakeFiles/rebuild_cache.dir
+/home/liuliu/shells/head_control/build/CMakeFiles/head_controlTest.dir
+/home/liuliu/shells/head_control/build/CMakeFiles/head_control.dir
